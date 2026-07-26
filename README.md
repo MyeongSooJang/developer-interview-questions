@@ -8,6 +8,7 @@ Java 백엔드 개발자 취업 면접을 준비하기 위한 질문 저장소�
 ### Java
 
 - [JVM이란 무엇인가요?](Java/jvm.md)
+- [GC(Garbage Collection)란 무엇인가요?](Java/gc.md)
 
 ### Spring
 
