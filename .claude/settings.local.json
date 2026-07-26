@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p Java Spring JPA DB 알고리즘-및-자료구조 기본-CS)",
+      "Bash(mv language-framework/java/jvm.md Java/)",
+      "Bash(mv language-framework/design-pattern/factory.md 기본-CS/)",
+      "Bash(mv language-framework/design-pattern/singleton.md 기본-CS/)",
+      "Bash(mv database/트랜잭션.md DB/)"
+    ]
+  }
+}

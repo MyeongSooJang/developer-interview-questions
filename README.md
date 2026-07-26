@@ -5,37 +5,28 @@ Java 백엔드 개발자 취업 면접을 준비하기 위한 질문 저장소�
 
 ## Categories
 
+### Java
+
+- [JVM이란 무엇인가요?](Java/jvm.md)
+
+### Spring
+
+### JPA
+
+### DB
+
+- [트랜잭션이란 무엇인가요?](DB/트랜잭션.md)
+
+### 알고리즘 및 자료구조
+
 ### 기본 CS
 
-- 자료구조
-- 알고리즘
-- 운영체제
-- 컴퓨터 구조
-
-### 언어 및 프레임워크
-
-- [JVM이란 무엇인가요?](language-framework/java/jvm.md)
-- [Design Pattern - Singleton](language-framework/design-pattern/singleton.md)
-- [Design Pattern - Factory](language-framework/design-pattern/factory.md)
-
-### 데이터베이스
-
-- [트랜잭션이란 무엇인가요?](database/트랜잭션.md)
-
-### 네트워크 및 아키텍처
-
-- [OSI 7계층이란 무엇인가요?](network-architecture/OSI-7계층.md)
-- [https://www.google.com 접속 시 일어나는 과정](network-architecture/구글-접속-과정.md)
-- [TCP와 UDP의 차이점은 무엇인가요?](network-architecture/TCPUDP.MD)
-- [CORS란 무엇인가요?](network-architecture/CORS.md)
-
-### 시스템 설계
-
-- 확장성
-- 캐싱
-- 메시지 큐
-- 동시성
-- 설계 연습
+- [OSI 7계층이란 무엇인가요?](기본-CS/OSI-7계층.md)
+- [https://www.google.com 접속 시 일어나는 과정](기본-CS/구글-접속-과정.md)
+- [TCP와 UDP의 차이점은 무엇인가요?](기본-CS/TCPUDP.MD)
+- [CORS란 무엇인가요?](기본-CS/CORS.md)
+- [Design Pattern - Singleton](기본-CS/singleton.md)
+- [Design Pattern - Factory](기본-CS/factory.md)
 
 ## Question Template
 
