@@ -9,7 +9,7 @@ String은 자바의 대표적인 불변 객체로, 한번 생성되면 값을 �
 그래서 문자열 수정이 잦은 로직에서 String을 쓰면 그만큼 객체가 계속 생성되고 버려져 메모리와 GC 비용이 늘어나는 반면, StringBuffer와 StringBuilder는 하나의 버퍼를 재사용해 이런 비용을 줄일 수 있습니다.
 
 두 클래스의 차이는 동기화 여부인데, StringBuffer는 synchronized로 스레드 안전하지만 그만큼 느리고, StringBuilder는 동기화가 없어 단일 스레드에서 더 빠릅니다.
-그래서 멀티스레드 환경이 아니라면 StringBuilder를 우선적으로 사용합니다.
+따라서 멀티스레드 환경이 아니라면 StringBuilder가 일반적으로 권장됩니다.
 
 ### 꼬리질문
 
