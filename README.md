@@ -28,6 +28,11 @@ Java 백엔드 개발자 취업 면접을 준비하기 위한 질문 저장소�
 ### DB
 
 - [트랜잭션이란 무엇인가요?](DB/트랜잭션.md)
+- [인덱스(Index)란 무엇인가요? 어떤 경우에 인덱스를 사용해야 할까요?](DB/인덱스.md)
+- [RDBMS와 NoSQL의 차이는 무엇인가요?](DB/RDBMS-NoSQL.md)
+- [PK와 FK는 각각 무엇인가요?](DB/PK-FK-UK-CK.md)
+- [INNER JOIN과 OUTER JOIN의 차이는 무엇인가요?](DB/JOIN.md)
+- [DB Lock이란 무엇이며, 어떤 종류가 있나요?](DB/Lock.md)
 
 ### 알고리즘 및 자료구조
 
