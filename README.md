@@ -34,6 +34,7 @@ Java 백엔드 개발자 취업 면접을 준비하기 위한 질문 저장소�
 - [INNER JOIN과 OUTER JOIN의 차이는 무엇인가요?](DB/JOIN.md)
 - [DB Lock이란 무엇이며, 어떤 종류가 있나요?](DB/Lock.md)
 - [정규화와 역정규화란 무엇인가요?](DB/정규화-역정규화.md)
+- [DDL, DML, DCL에 대해 설명해주세요.](DB/DDL-DML-DCL.md)
 
 ### 알고리즘 및 자료구조
 
